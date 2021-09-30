@@ -1,2 +1,3 @@
 # emoji-enterpretor
-Created with CodeSandbox
+
+A emoji Interpreter to tell you about what emoji has what expression.
